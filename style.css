@@ -1,5 +1,6 @@
 body {
     background-color: yellow;
+    margin-left: 50px;
 
   }
 
@@ -20,16 +21,20 @@ h2,ul,li
 
 }
 .main {
-
+  display: inline-block;
+  
 }
 
 #top {
-
+  display: inline-block;
+  margin-left: 0px;
 }
+
 #main-img {
     width:320px; 
     height:300px;
-    display: block;
+    display: inline-block;
+    margin-left: 0px;
 
 }
 
